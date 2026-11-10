@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "app.madingo.twa",
+    "sha256_cert_fingerprints": ["29:39:88:6A:E7:63:79:09:FB:20:7A:BE:67:44:AC:B9:31:E1:F0:72:BF:83:52:6E:4B:D2:73:86:37:C8:22:0C"]
+  }
+}]
